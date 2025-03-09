@@ -4,6 +4,6 @@
 
 ## Brain-inspired Intelligent Robotics Lab @ Fudan University
 
-Our mission is to fuse brain, intelligence, and robotics to understand neural mechanisms of spatial cognition—spanning perception, learning, memory, decision-making, and locomotion—to build robots with human-level spatial intelligence via a combination of computational, robotics, neural, and behavioral approaches.
+Our mission is to investigate brain, intelligence, and robotics to uncover the core principles of intelligence—encompassing spatial cognition, memory, learning, decision-making, and locomotion. By integrating computational techniques, robotics, neuroscience, and behavioral research, we aim to develop robots with human-level spatial intelligence.
 
 
